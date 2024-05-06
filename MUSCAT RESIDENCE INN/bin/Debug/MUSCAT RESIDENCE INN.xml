@@ -1,0 +1,261 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MUSCAT RESIDENCE INN
+</name>
+</assembly>
+<members>
+<member name="T:MUSCAT_RESIDENCE_INN.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources._102099719_key_shield_logo_icon_design">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources._20201025_165629">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources._312_3120803_logout_icon_png_transparent_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources._66630585_x_close_icon_x_close_website_button_on_white_background_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.guest_vector_icon_white_background_flat_symbol_sign_modern_hotel_restaurant_collection_mobile_concept_web_apps_161792078">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.i">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.JJJ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.k">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.l">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.LOGO1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.logout_vector_icon_png_262145">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.m">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.p">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.pas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.unnamed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.unnamed__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MUSCAT_RESIDENCE_INN.My.Resources.Resources.USER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.add_guestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.check_inDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.log_inDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.roomsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.add_guestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.check_inRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.log_inRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.roomsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.add_guestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.check_inRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.log_inRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet.roomsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.add_guestTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.check_inTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.log_inTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.roomsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.UpdateAll(MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MUSCAT_RESIDENCE_INN.Muscat_Residence_InnDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
